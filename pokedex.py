@@ -1,7 +1,7 @@
 from pokemon import Pokemon
 
 POKEDEX = [
-    Pokemon("Bulbizarre", ["plante"], 80),
-    Pokemon("Herbizarre", ["plante"], 100),
-    Pokemon("Florizzare", ["plante", "poison"], 150),
+    Pokemon("Bulbizarre", ["plante", "poison"], 70),
+    Pokemon("Herbizarre", ["plante", "poison"], 100),
+    Pokemon("Florizzare", ["plante", "poison"], 200),
 ]
